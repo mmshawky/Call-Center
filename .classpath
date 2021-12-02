@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src-common"/>
+	<classpathentry kind="src" path="src-ivr"/>
+	<classpathentry kind="src" path="src-jmx"/>
+	<classpathentry kind="src" path="src-agi-client"/>
+	<classpathentry kind="src" path="src-db"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/lib/eclipse/jakarta/JAXB/jaxb-ri/mod/jaxb-core.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/lib/eclipse/jakarta/JAXB/jaxb-ri/mod/jakarta.xml.bind-api.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/lib/eclipse/jakarta/JAXB/jaxb-ri/mod/jaxb-impl.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/lib/eclipse/jakarta/JAXB/jaxb-ri/mod/jaxb-jxc.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/lib/eclipse/jakarta/JAXB/jaxb-ri/mod/jaxb-xjc.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/lib/eclipse/jakarta/JAXB/jaxb-ri/mod/jakarta.activation.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/lib/google/guava-31.0.1-jre.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/lib/asterisk/3.14.0/asterisk-java-3.14.0.jar" sourcepath="D:/eclipse-workspace/lib/asterisk/3.14.0/asterisk-java-3.14.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/D:/eclipse-workspace/lib/asterisk/3.14.0/asterisk-java-3.14.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/lib/apache/dbcp/commons-dbcp2-2.0.1/commons-dbcp2-2.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/lib/apache/dbcp/commons-pool2-2.11.1/commons-pool2-2.11.1.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/lib/apache/log4j/2.14.1/apache-log4j-2.14.1-bin/log4j-1.2-api-2.14.1.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/lib/apache/log4j/2.14.1/apache-log4j-2.14.1-bin/log4j-api-2.14.1.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/lib/apache/log4j/2.14.1/apache-log4j-2.14.1-bin/log4j-core-2.14.1.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse-workspace/lib/mybatis/3.5.7/mybatis-3.5.7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

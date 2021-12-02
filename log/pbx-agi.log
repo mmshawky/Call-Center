@@ -1,0 +1,2 @@
+INFO 14:34:27 org.asteriskjava.fastagi.DefaultAgiServer.startup(DefaultAgiServer.java:250)  - Thread pool started.
+INFO 14:34:27 org.asteriskjava.fastagi.DefaultAgiServer.startup(DefaultAgiServer.java:262)  - Listening on *:9000.

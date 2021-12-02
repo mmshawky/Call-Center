@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<server port="9000" poolSize="100" maximumPoolSize="1000">
+	<mappingstrategy>
+		<callflowscript issherad="true">
+			<path>com.icsp.ots.callflow.HdeCallflow</path>
+			<!-- <path>../applications/app-settings.xml</path> -->
+		</callflowscript>
+	</mappingstrategy>
+</server>

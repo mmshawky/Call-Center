@@ -1,0 +1,2 @@
+- Main media path [/var/lib/asterisk/sounds/custom]
+- media lang
